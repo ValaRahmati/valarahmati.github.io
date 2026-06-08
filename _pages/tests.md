@@ -1,6 +1,6 @@
 ---
 layout: repositories
-title: test instances   # <-- Changing this alters the display text on your nav bar
+title: Test Instances   # <-- Changing this alters the display text on your nav bar
 permalink: /repositories/
 nav: true
 nav_order: 5
