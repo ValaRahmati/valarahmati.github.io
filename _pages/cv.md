@@ -12,7 +12,7 @@ nav: true
 
 <br>
 
-### Job Market References
+### References
 
 * **Dr. Halit Üster** (Committee Chair)  
   Professor, Operations Research & Engineering Management  
