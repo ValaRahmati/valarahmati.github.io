@@ -1,7 +1,7 @@
 ---
 layout: page
-title: honors
-permalink: /honors/
+title: awards
+permalink: /awards/
 description: Academic fellowships, department distinctions, and case awards.
 nav: true
 nav_order: 4
