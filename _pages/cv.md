@@ -1,12 +1,35 @@
 ---
-layout: cv
+layout: page
+title: cv
 permalink: /cv/
-title: CV
+description: Download complete curriculum vitae or view job market references.
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<div class="text-center">
+    <a href="/assets/pdf/CV.pdf" class="btn btn-primary btn-lg" target="_blank" role="button">⬇️ Download Complete CV (PDF)</a>
+</div>
+
+<br>
+
+### Job Market References
+
+* **Dr. Halit Üster** (Committee Chair)  
+  Professor, Operations Research & Engineering Management  
+  Lyle School of Engineering, Southern Methodist University  
+  Email: [uster@smu.edu](mailto:uster@smu.edu)[cite: 1]
+
+* **Dr. Sila Çetinkaya** (Committee Member)  
+  Professor, Operations Research & Engineering Management  
+  Lyle School of Engineering, Southern Methodist University  
+  Email: [sila@smu.edu](mailto:sila@smu.edu)[cite: 1]
+
+* **Dr. R. Canan Savaskan-Ebert** (Committee Member)  
+  Associate Professor, Information Technology & Operations Management  
+  Cox School of Business, Southern Methodist University  
+  Email: [csavaskan@smu.edu](mailto:csavaskan@smu.edu)[cite: 1]
+
+* **Dr. Digvijay Boob** (Committee Member)  
+  Assistant Professor, Operations Research & Engineering Management  
+  Lyle School of Engineering, Southern Methodist University  
+  Email: [dboob@smu.edu](mailto:dboob@smu.edu)[cite: 1]
