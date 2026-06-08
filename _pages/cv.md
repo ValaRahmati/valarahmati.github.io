@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cv
-permalink: /cv/
+title: CV
+permalink: /CV/
 description: Download complete curriculum vitae or view job market references.
 nav: true
 ---
