@@ -1,15 +1,20 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description: Courses taught, teaching philosophy, and student mentorship.
 nav: true
-nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Instructor Experience
+* **OREM 3360 - Operations Research I** (Temporary Assignment, SMU, Fall 2023)  
+  Delivered full lecture modules, formulated course material, and managed in-class student inquiries[cite: 1].
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Graduate Teaching Assistantships
+* **OREM 2360 - Engineering Economy** (SMU, 2022–2023) — Fully responsible for organizing material and teaching active laboratory instruction sessions[cite: 1].
+* **EMIS 3360 - Operations Research I** (SMU, Spring 2022) — Sole instructor of lab sequences teaching linear programming (LP) and mixed-integer programming (MIP) formulation inside AMPL[cite: 1].
+* **Operations Research I & II** (Amirkabir University of Technology, 2021) — Taught 16+ lab classes focused on modeling MIP, nonlinear programming (NLP), and network design algorithms[cite: 1].
 
-{% include courses.liquid %}
+### Mentoring
+* **Undergraduate Research Mentor** (SMU, Jan 2025–Present)  
+  Directly guiding undergraduate student Anna Leo on survey collection and behavioral analysis for disaster evacuation workflows, leading to an active manuscript target for the *Journal of Humanitarian Logistics and Supply Chain Management*[cite: 1].
