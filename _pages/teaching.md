@@ -1,7 +1,7 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
+title: Teaching
+permalink: /Teaching/
 description: Courses taught, teaching philosophy, and student mentorship.
 nav: true
 nav_order: 2
