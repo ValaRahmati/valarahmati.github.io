@@ -208,6 +208,9 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _pages/blog.md         # <-- Add this line to remove the Blog page
+  - _pages/people.md       # <-- Add this line to remove the People page
+  - _pages/dropdown.md     # <-- Add this line to remove the Submenu/Dropdown page 
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md
