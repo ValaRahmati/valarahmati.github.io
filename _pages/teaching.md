@@ -4,6 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Courses taught, teaching philosophy, and student mentorship.
 nav: true
+nav_order: 2
 ---
 
 ### Instructor Experience
