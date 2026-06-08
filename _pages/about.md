@@ -21,6 +21,6 @@ Beyond research, I serve as the President of the **SMU INFORMS Student Chapter**
 
 ### 🛠️ Core Research Interests
 * **Methodologies:** Large-Scale Optimization, Decomposition Algorithms (Benders Decomposition), Mixed-Integer Linear Programming (MILP), Time-Expanded Networks.
-* **Application Areas:** Transportation & Logistics, Emergency Response & Disaster Management Logistics, Retail Management[cite: 1].
+* **Application Areas:** Transportation & Logistics, Emergency Response & Disaster Management Logistics, Retail Management.
 
 ---
