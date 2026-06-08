@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate | Operations Research | Southern Methodist University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   address: >
     <p>Department of Operations Research & Engineering Management</p>
     <p>Lyle School of Engineering, SMU</p>
