@@ -1,7 +1,7 @@
 ---
 layout: page
-title: presentations
-permalink: /presentations/
+title: Presentations
+permalink: /Presentations/
 description: Selected scholarly talks, paper presentations, and poster sessions.
 nav: true
 nav_order: 3
