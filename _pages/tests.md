@@ -1,46 +1,21 @@
 ---
-layout: repositories
-title: Test Instances   # <-- Changing this alters the display text on your nav bar
+layout: page
+title: Test Instances
 permalink: /repositories/
 nav: true
 nav_order: 5
 ---
 
-{% if site.data.repositories.github_users %}
+Select a research project below to view its specific problem matrices, network topologies, instance parameters, and benchmark dataset download links.
 
-## GitHub users
+### 📚 Project Datasets
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+* ### 📄 [Time-Phased Relief Supply Network Planning for Foreseen Disasters](/repositories/relief-supply/)
+  * **Authors:** Vala Rahmati and Halit Üster 
+  * *Status:* Published in *Transportation Science* (2025)
+  * Detailed computational schemas, parameters descriptions, GIS regional metrics, and download access for `Dataset.zip`.
 
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+* ### 📄 Time-Dependent Integrated Network Design for Supply and Demand in Disaster Response
+  * **Authors:** Vala Rahmati and Halit Üster
+  * *Status:* Target Submission June 2026
+  * *Data page and instance configuration vectors will be activated upon manuscript submission.*
